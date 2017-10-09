@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+</style>
+</head>
+<h1 style="background-color:Tomato;">Tomato</h1>
+<h1 style="text-align:center;">HTML lecture</h1>
+
+
+<h2 title="I'm a header">  The title attribute</h2>
+<p style="color:red">Fuck. </p>
+<a href=https://www.w3schools.com>This is a link</a>
+<h1 style="font-size:60px;">Heading 1</h1>
+<h1 style="font-size:300%;">This is a heading</h1>
+
+<h1 style="font-family:verdana;">This is a heading</h1>
+
+
+<p title="I'm a tooltip">
+Mouse over this paragraph, to display the title attribute as a tooltip.
+</p>
+
+<hr>
+<h1 style="text-align:center;">Formatting</h1>
+
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+
+<p style="text-align:center;">Colors</p>
+<h1 style="background-color:Tomato;">Tomato</h1>
+<h1 style="border:2px solid Tomato;">Hello World</h1>
+
+
+<h1 style="text-align:center;">Colors</hi>
+
+
+<p>You can change the default colors of links</p>
+
+<a href="html_images.asp" target="_blank">HTML Images</a> 
+
+
+
+</body>
+</html>
